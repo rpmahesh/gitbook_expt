@@ -8,7 +8,7 @@ Idli Manchurian, a delicious snack made using the leftover idlis is a fusion foo
 
 ![](/assets/idli_machurian.jpg)
 
-## **Ingredients:**
+**Ingredients:**
 
 | Ingredients for Batter: |
 | :--- |
